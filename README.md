@@ -1,4 +1,4 @@
-![Header](https://github.com/ZoeIvanchuk/ZoeIvanchuk/blob/main/assets/git%20photo.png)
+![Header]
 
 ## Hello! I'm QA ENGINER
 You can see my portfolio in the [QA portfolio](https://github.com/ZoeIvanchuk/QA_portfolio) repository 
