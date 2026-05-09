@@ -1,5 +1,3 @@
-![Header]
-
 ## Hello! I'm QA ENGINER
 You can see my portfolio in the [QA portfolio](https://github.com/ZoeIvanchuk/QA_portfolio) repository 
 ## Languages and Tools
